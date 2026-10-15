@@ -1,0 +1,23 @@
+# Java build output
+*.class
+*.jar
+out/
+bin/
+target/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+nbproject/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs / secrets
+*.log
+.env
